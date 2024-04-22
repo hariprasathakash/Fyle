@@ -1,6 +1,4 @@
-# Fyle Frontend Challenge
 
-Deployment Link : https://fyle-internship-challenge-xi.vercel.app/
 
 ## Who is this for?
 
